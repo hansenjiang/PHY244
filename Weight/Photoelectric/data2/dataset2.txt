@@ -1,0 +1,9 @@
+Intensity Current_V_stop Stopping_Voltage Photocurrent
+1 0.000 0.713 0.502
+2 0.000 0.707 0.536
+3 0.000 0.706 0.586
+4 0.000 0.700 0.698
+
+
+
+
